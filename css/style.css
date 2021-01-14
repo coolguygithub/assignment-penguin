@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+p, a, h5, h3{
+    font-family: 'Roboto', sans-serif;
+}
+.banner-bg{
+    background-color: rgba(255, 251, 240, 1);
+}
+.penguin-nav{
+    margin-right: 3em;
+}
+.banner-h-size{
+    font-size: 80px;
+}
+.border-nil{
+    border: none;
+}
+.card-width{
+    width: 28em;
+}
+.card-margin{
+    margin-right: 5em;
+}
+.card-radius{
+    border-radius: 20px;
+}
+.card-bg{
+    background-color: #F1F1F1;
+}
